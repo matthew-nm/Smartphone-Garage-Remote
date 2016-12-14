@@ -1,0 +1,19 @@
+01 Project Overview
+	- purpose
+	- functionality chain (phone, www, router, rpi, remote, door)
+	- choosing the rpi 3
+
+02 Circuit Design
+	- failures of simple configuration
+	- plan for switching circuit
+	- calculations for transistor and resistor
+
+03 Raspberry Pi Setup
+	- webiopi config
+	- script and macros
+	- port forwarding
+
+04 Smartphone Setup
+	- Tasker task
+	- Tasker profiles
+	- button config
